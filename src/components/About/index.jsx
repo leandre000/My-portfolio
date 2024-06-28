@@ -7,10 +7,8 @@ const About = () => {
     <section id='about'>
       <div className="container">
          <div className="photo__container">
-           <div className="primary__effect picture">
-            <img src={profile11} alt="profile_picture" />
-           </div>
-         </div>
+            <img className="img" src={profile11} alt="profile_picture" />
+          </div>
          <div className="details">
           <h3><span className="text__gradient">About</span> Me</h3>
           <h1>I am <span className="color__primary">Shema Leandre</span></h1>

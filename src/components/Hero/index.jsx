@@ -11,7 +11,7 @@ const Hero = () => {
       <div className="container full__height blur-effect">
          <div className="info__container">
             <div className="user__profile">
-               <div className="primary__effect photo__container">
+               <div className=" photo__container">
                 <img src={profile11} alt="profile_picture" />
                </div>
             </div>

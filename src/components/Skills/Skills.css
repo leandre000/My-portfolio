@@ -21,7 +21,6 @@
 #skills .skill__box__container:hover{
     transform: scale(0.98);
     border-color: var(--color-primary);
-    background: var(--primary-glow);
 }
 
 

@@ -21,10 +21,13 @@
 }
 
 #about .photo__container .picture{
-    border-radius: var(--radius-4);
     overflow: hidden;
     position: relative;
     z-index: 1;
+}
+
+.img{
+    border-radius: var(--radius-4);
 }
 
 #about .photo__container:hover .primary__effect.picture::before{

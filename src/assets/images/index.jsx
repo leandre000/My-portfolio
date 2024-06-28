@@ -8,7 +8,7 @@ export {default as profile7} from "./profile-7.jpeg";
 export {default as profile8} from "./profile-8.jpeg";
 export {default as profile9} from "./profile-9.jpeg";
 export {default as profile10} from "./profile-10.jpg";
-export {default as profile11} from "./profile-11.jpeg";
+export {default as profile11} from "./profile-11.jpg";
 
 
 
