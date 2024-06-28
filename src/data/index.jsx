@@ -145,30 +145,22 @@ export const skills = [
 export const projects = [
   {
     name: 'Restaurent website',
-    description: `EEffortlessly organize Node packages and sort arrays. Boost productivity.`,
-    image: "https://colorlib.com/wp/wp-content/uploads/sites/2/nodejs-frameworks.png",
-    url: '',
+    description: `the best restaurant website you can ever visit on the internet.`,
+    image: "/rest.png",
+    url: 'https://ishemarest.vercel.app',
   },
 
   {
     name: 'lex website',
     description: `Grow your business. Experience real-time communication like never before.`,
-    image: "https://files.ably.io/ghost/prod/2023/01/build-a-realtime-chat-app-from-scratch--1-.png",
-    url: '',
+    image: "/lex.png",
+    url: 'https://businesslex.vercel.app',
   },
 
   {
-    name: 'Logbook system',
-    description: `
-    Built with Php  authentication.`,
+    name: 'Gemini Clone',
+    description: `A gemini clone that uses google apis`,
     image: "https://i.gadgets360cdn.com/large/gemini_ai_google_1701928139717.jpg",
-    url: 'https://github.com/leandre000/Logbook-system',
-  },
-  {
-    name: 'Library management',
-    description: `Experience design excellence with Php and css. 
-    Built with the power of Next.JS`,
-    image: "",
     url: '',
   },
   {
@@ -189,9 +181,7 @@ export const clients = [
   {
     image: profile3,
     name: 'Asimwe Landry',
-    review: `Collaborating with Leandre was truly delightful. 
-    His unwavering professionalism and commitment led to outstanding results, surpassing all my expectations. 
-    I wholeheartedly endorse his services.`
+    review: `Let me introduce this mans work, this professional scammer is a very talented one working with his is the best choice you can ever make.`
   },
   {
     image: profile4,
