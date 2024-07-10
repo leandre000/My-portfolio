@@ -147,14 +147,14 @@ export const projects = [
     name: 'Restaurent website',
     description: `the best restaurant website you can ever visit on the internet.`,
     image: "/rest.png",
-    url: 'https://ishemarest.vercel.app',
+    url: '',
   },
 
   {
     name: 'lex website',
     description: `Grow your business. Experience real-time communication like never before.`,
     image: "/lex.png",
-    url: 'https://businesslex.vercel.app',
+    url: '',
   },
 
   {
