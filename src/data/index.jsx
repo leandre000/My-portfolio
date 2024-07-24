@@ -87,13 +87,13 @@ export const education = [
   },
   {
     schoolName: "Rwanda Coding Academy",
-    dateRange: "2022 - 2023",
+    dateRange: "2023 - 2024",
     certification: "Web Development",
     description: "The best coding and programming school in Rwanda.",
   },
   {
     schoolName: "Rwanda Coding Academy",
-    dateRange: "2022 - 2023",
+    dateRange: "2023 - 2024",
     certification: "Graphic Design",
     description: "The best coding and programming school in Rwanda.",
   },
@@ -104,10 +104,10 @@ export const skills = [
   {
     category: "UI/UX",
     data: [
-      { skill: "Figma", progress: 60, icon: <FaFigma /> },
-      { skill: "Photoshop", progress: 70, icon: <SiAdobephotoshop /> },
-      { skill: "Canva", progress: 60, icon: <SiCanva /> },
-      { skill: "Illustrator", progress: 70, icon: <SiAdobeillustrator /> },
+      { skill: "Figma", progress: 90, icon: <FaFigma /> },
+      { skill: "Photoshop", progress: 80, icon: <SiAdobephotoshop /> },
+      { skill: "Canva", progress: 75, icon: <SiCanva /> },
+      { skill: "Illustrator", progress: 80, icon: <SiAdobeillustrator /> },
 
     ]
   },
@@ -118,7 +118,7 @@ export const skills = [
       { skill: "CSS", progress: 90, icon: <FaCss3Alt /> },
       { skill: "JavaScript", progress: 90, icon: <RiJavascriptFill /> },
       { skill: "Tailwind", progress: 90, icon: <RiTailwindCssFill /> },
-      { skill: "Bootstrap", progress: 80, icon: <FaBootstrap /> },
+      { skill: "Bootstrap", progress: 90, icon: <FaBootstrap /> },
       { skill: "React", progress: 85, icon: <TbBrandReact /> },
       { skill: "Next Js", progress: 85, icon: <SiNextdotjs /> },
       { skill: "Vue", progress: 60, icon: <TbBrandVue /> },
@@ -129,9 +129,9 @@ export const skills = [
   {
     category: "Backend Development",
     data: [
-      { skill: "Node JS", progress: 85, icon: <FaNodeJs /> },
+      { skill: "Node JS", progress: 90, icon: <FaNodeJs /> },
       { skill: "Express JS", progress: 90, icon: <SiAliexpress /> },
-      { skill: "MongoDB", progress: 85, icon: <SiMongodb /> },
+      { skill: "MongoDB", progress: 90, icon: <SiMongodb /> },
       { skill: "PHP", progress: 86, icon: <FaPhp /> },
       { skill: "Python", progress: 75, icon: <FaPython /> },
       { skill: "MySQL", progress: 90, icon: <TbBrandMysql /> },
@@ -181,7 +181,7 @@ export const clients = [
   {
     image: profile3,
     name: 'Asimwe Landry',
-    review: `Let me introduce this mans work, this professional scammer is a very talented one working with his is the best choice you can ever make.`
+    review: `Let me introduce this mans work, this professional  is a very talented one working with his is the best choice you can ever make.`
   },
   {
     image: profile4,
